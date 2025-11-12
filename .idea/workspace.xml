@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1befb1bf-bff2-4468-862b-bbf20e104a7e" name="Changes" comment="Prueba funcionamiento">
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +19,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+<<<<<<< Updated upstream
         <entry key="$PROJECT_DIR$" value="develop_JuanAaron" />
+=======
+        <entry key="$PROJECT_DIR$" value="develop" />
+>>>>>>> Stashed changes
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,7 +79,11 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+<<<<<<< Updated upstream
     "git-widget-placeholder": "#2 on develop__JuanAaron",
+=======
+    "git-widget-placeholder": "develop",
+>>>>>>> Stashed changes
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/javac/Downloads/Clase_PracticaMerge",
     "settings.editor.selected.configurable": "preferences.keymap"
